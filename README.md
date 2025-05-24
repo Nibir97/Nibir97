@@ -3,6 +3,7 @@
 
 Email Me 👉 ✉️ **info@moinulhossainnibir.info** For Collaboration/Project or Anything Else. 😊😊
 
+# 💫 About Me:
 - 🔭 **I’m currently working on:** Building a Personal Portfolio Website for MySelf using NextJS
 - 🌱 **I’m currently learning:** NextJS
 - 👯 **I’m looking to collaborate on:** Building Cyber Security Community
@@ -11,10 +12,6 @@ Email Me 👉 ✉️ **info@moinulhossainnibir.info** For Collaboration/Project 
 - 📫 **How to reach me:** info@moinulhossainnibir.info
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I am a Tech Enthusiast who loves Tech and Tech loves me
-
-# 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nibirrocks) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nibirportfolio) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moinul_hossain_nibir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moinul-hossain-nibir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@moinul.rocks) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/moinulrocks) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Md-Moinul-Hossain-Nibir) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Moinul_Hossain_Nibir) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/md-moinul-hossain-nibir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MoinulNibir) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Nibir97) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@moinulhossainnibir.info) 
