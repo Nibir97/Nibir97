@@ -14,6 +14,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Nibir97&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nibir97&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 📊 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=Nibir97&color=blueviolet&style=for-the-badge)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nibir97&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
 
