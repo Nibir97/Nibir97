@@ -1,4 +1,16 @@
-## Hi there 👋
+# 💫 Hi there 👋, I'm Md. Moinul Hossain Nibir
+**A passionate Network Engineer || Front-End Developer || Cyber Security Professional || IT & Network Professional from Dhaka, Bangladesh**
+
+Email Me 👉 ✉️ **info@moinulhossainnibir.info** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Building a Personal Portfolio Website for MySelf using NextJS
+- 🌱 **I’m currently learning:** NextJS
+- 👯 **I’m looking to collaborate on:** Building Cyber Security Community
+- 🤔 **I’m looking for help with:** 
+- 💬 **Ask me about:** Collaboration, Tech Support, Cyber Security Support
+- 📫 **How to reach me:** info@moinulhossainnibir.info
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I am a Tech Enthusiast who loves Tech and Tech loves me
 
 # 💫 About Me:
 🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
@@ -21,7 +33,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Nibir97&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nibir97&limit=5&theme=dark&combine_all_yearly_contributions=true)
